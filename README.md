@@ -5,7 +5,7 @@
 🏡 - Brasileiro, atualmente residindo em Toledo-Pr
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ElessandroPrestes)](https://github.com/ElessandroPrestes)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elessandro-prestes-macedo-278189126/)](https://www.linkedin.com/in/elessandro-prestes-macedo-278189126/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elessandro-prestes-macedo-278189126/)](https://www.linkedin.com/in/elessandro-prestes-macedo/)
 
 <!--
 **ElessandroPrestes/ElessandroPrestes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
