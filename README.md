@@ -35,8 +35,11 @@ Estudo continuamente as boas práticas no desenvolvimento de software, cobrindo 
 
 ---
 
-![Elessandro GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElessandroPrestes&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElessandroPrestes&layout=compact&theme=default)
+
+<p align="left">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ElessandroPrestes&show_icons=true&theme=default" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ElessandroPrestes&layout=compact&theme=default" height="150" />
+</p>
 
 ---
 
