@@ -4,7 +4,7 @@ Software Engineer com mais de 9 anos de experiência projetando, desenvolvendo e
 
 Ao longo da carreira, liderei iniciativas de transformação digital utilizando PHP, Laravel, Symfony, Node.js, AWS, Azure, Docker, Microservices, Distributed Systems e Event-Driven Architecture. Tenho experiência na modernização de sistemas legados, decomposição de monólitos, construção de APIs, integrações corporativas e implantação de soluções Cloud Native orientadas ao crescimento sustentável.
 
-Também atuo com Engenharia de Software Assistida por IA, aplicando a metodologia Spec-Driven Development — SDD — para estruturar especificações, tarefas, implementação, testes, refatoração e revisão de código. Utilizo ferramentas como Claude Code, GitHub Copilot e Codex para aumentar a qualidade, a rastreabilidade e a produtividade das entregas, mantendo decisões arquiteturais e validações técnicas sob responsabilidade da engenharia.
+Também atuo com Engenharia de Software Assistida por IA, aplicando a metodologia Spec-Driven Development (SDD)para estruturar especificações, tarefas, implementação, testes, refatoração e revisão de código. Utilizo ferramentas como Claude Code, GitHub Copilot e Codex para aumentar a qualidade, a rastreabilidade e a produtividade das entregas, mantendo decisões arquiteturais e validações técnicas sob responsabilidade da engenharia.
 
 Como Tech Lead, promovi a adoção do GitHub Copilot em uma equipe de desenvolvedores juniores, apoiando o desenvolvimento, a revisão de código e o aprendizado técnico do time. Essa iniciativa contribuiu para acelerar as entregas, reduzir retrabalho e elevar a produtividade da equipe.
 
@@ -12,7 +12,6 @@ Entre os principais projetos, destaco a liderança técnica do SISCAD, na CAPES;
 
 Minha stack inclui PHP, Laravel, Symfony, Node.js, Vue.js, Angular, AWS, Azure, Docker, Kubernetes, Redis, RabbitMQ, Kafka, PostgreSQL, Oracle, CI/CD, DevOps, Software Architecture, System Design, Cloud Architecture, Spec-Driven Development e AI-Assisted Software Engineering.
 
-Aberto a oportunidades como Software Engineer, Full Stack Engineer, Backend Engineer e Software Engineer com foco em IA Aplicada.
 
 ---
 
@@ -27,6 +26,8 @@ Aberto a oportunidades como Software Engineer, Full Stack Engineer, Backend Engi
 - 🗃️ Domínio de bancos de dados relacionais e não relacionais: **PostgreSQL, MySQL, Oracle, SQL Server, MongoDB**
 - 📚 Foco em boas práticas que abrangem todo o ciclo de desenvolvimento — da concepção à entrega e manutenção
 - 🔄 Atuação em ambientes **ágeis e colaborativos**, com foco em qualidade, escalabilidade e melhoria contínua
+- 🤖 Atuação com **IA Aplicada ao desenvolvimento de software**, utilizando **Claude Code**, **GitHub Copilot** e **Codex** para aumentar qualidade, rastreabilidade e produtividade
+- 📐 Aplicação da metodologia **Spec-Driven Development (SDD)** para estruturar especificações, tarefas, implementação, testes, refatoração e revisão de código
 
 ---
 
