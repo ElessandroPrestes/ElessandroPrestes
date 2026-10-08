@@ -1,0 +1,13 @@
+services:
+  readme-preview:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: elessandro-readme-preview
+    ports:
+      - "${PORT:-8080}:8080"
+    volumes:
+      - ./README.md:/app/README.md:ro
+    environment:
+      - PORT=8080
+    restart: unless-stopped
