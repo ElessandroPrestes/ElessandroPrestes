@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Elessandro Prestes Macedo
 
-**Engenheiro de Software | PHP & Laravel | Backend & Full Stack | Arquitetura & IA Aplicada**
+**Engenheiro de Software | PHP & Laravel | Node.js | Backend & Full Stack | Arquitetura & IA Aplicada**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elessandroprestes-macedo/)
 [![Portfolio](https://img.shields.io/badge/-Portfólio-000000?style=flat-square&logo=github&logoColor=white)](https://elessandroprestes.github.io/elessandrodev/)
