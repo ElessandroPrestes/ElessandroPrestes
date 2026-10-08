@@ -11,14 +11,14 @@
 
 ### 💡 Sobre mim e como trabalho
 
-Tenho **mais de 9 anos de estrada** projetando, sustentando e modernizando sistemas que simplesmente **não podem parar nem perder dados** — com passagens pelos setores público, energético, industrial e educacional.
+Trabalho há **mais de 9 anos** projetando, sustentando e modernizando sistemas de missão crítica que **não podem parar nem perder dados**, com atuação consolidada nos setores público, energético, industrial e educacional.
 
-Minha paixão está em encarar problemas reais de engenharia: transformar monólitos legados em arquiteturas distribuídas e desacopladas, garantir alta disponibilidade sob cargas intensas e usar Inteligência Artificial com método, sem modismo.
+Gosto de resolver desafios reais de engenharia no dia a dia: transformar monólitos legados em arquiteturas distribuídas e desacopladas, garantir alta disponibilidade sob cargas elevadas e aplicar inteligência artificial com método e critério prático.
 
-- ⚙️ **Escala & Resiliência:** Já desenhei e mantive arquiteturas suportando **2.500+ RPS**, picos de **10 mil usuários simultâneos** e latência **<300ms** para 448+ instituições de ensino (CAPES), sempre mirando **99,9% de uptime**.
-- 🔄 **Modernização sem trauma:** Acredito que legado não se joga fora às cegas. Aplico o **Strangler Fig Pattern** para migrar monólitos para **Microsserviços, Serverless e BFF** de forma contínua e segura — eliminando mais de 56 mil linhas de dívida técnica e reduzindo retrabalho em 40%.
-- 🤖 **Engenharia Assistida por IA com Método:** Criei o **[Universal SDD](https://github.com/ElessandroPrestes/universal-sdd)**, um framework open-source focado em **Spec-Driven Development (SDD)**. Utilizo ferramentas como Claude Code, GitHub Copilot, Codex, RAG e MCP para acelerar o ciclo sem abrir mão de rastreabilidade e decisões humanas na arquitetura.
-- 🧪 **Cultura de Qualidade:** Código bom é código testado e manutenível. Tenho experiência estruturando suites com mais de **2.300 testes automatizados** (**Pest, PHPUnit**), guiados por **TDD**, **SOLID**, **Clean Architecture** e esteiras robustas de **CI/CD**.
+- ⚙️ **Escala e Resiliência:** Desenhei e sustentei arquiteturas preparadas para **2.500+ RPS**, picos de **10 mil usuários simultâneos** e latência **abaixo de 300 ms** para mais de 448 instituições de ensino na CAPES, mantendo **99,9% de disponibilidade**.
+- 🔄 **Modernização de Legados:** Em vez de reescrever sistemas do zero sem planejamento, utilizo o **Strangler Fig Pattern** para migrar monólitos para **microsserviços, serverless e BFF** de maneira gradual e segura. Esse processo já viabilizou a eliminação de mais de 56 mil linhas de código legado e reduziu o retrabalho em 40%.
+- 🤖 **Engenharia de Software com IA:** Idealizei e mantenho o **[Universal SDD](https://github.com/ElessandroPrestes/universal-sdd)**, um framework de código aberto voltado para **Spec-Driven Development (SDD)**. Adoto ferramentas como Claude Code, GitHub Copilot, Codex, RAG e MCP para acelerar o ciclo de desenvolvimento, mantendo sempre o rigor técnico, especificações claras e decisões arquiteturais nas mãos da engenharia.
+- 🧪 **Qualidade e Testes:** Defendo código limpo, testável e sustentável. Estruturei suítes com mais de **2.300 testes automatizados** com **Pest e PHPUnit**, combinando **TDD**, **SOLID**, **Clean Architecture** e esteiras automatizadas de **CI/CD**.
 
 ---
 
@@ -26,22 +26,22 @@ Minha paixão está em encarar problemas reais de engenharia: transformar monól
 
 | Área | Tecnologias e Práticas |
 |---|---|
-| **Backend & Linguagens** | PHP (Laravel, Symfony), Node.js (Express, NestJS), TypeScript, JavaScript |
-| **Bancos & Cache** | PostgreSQL, MySQL/MariaDB, Oracle (PL/SQL), Redis, MongoDB, SQL Server |
-| **Arquitetura & Mensageria** | Microsserviços, Event-Driven Architecture (EDA), Strangler Fig Pattern, Serverless, BFF, RabbitMQ, Kafka |
-| **IA & Engenharia** | Spec-Driven Development (SDD), Claude Code, GitHub Copilot, Codex, RAG, MCP (Model Context Protocol) |
-| **Qualidade & Testes** | Pest, PHPUnit, Vitest, TDD, Clean Code, SOLID, SonarQube |
-| **Cloud & DevOps** | Docker, Kubernetes, AWS (Lambda, ECS, SQS, CloudWatch), Azure (Functions, Monitor, IoT), GitHub Actions, GitLab CI |
+| **Backend e Linguagens** | PHP (Laravel, Symfony), Node.js (Express, NestJS), TypeScript, JavaScript |
+| **Bancos de Dados e Cache** | PostgreSQL, MySQL/MariaDB, Oracle (PL/SQL), Redis, MongoDB, SQL Server |
+| **Arquitetura e Mensageria** | Microsserviços, Arquitetura Orientada a Eventos (EDA), Strangler Fig Pattern, Serverless, BFF, RabbitMQ, Kafka |
+| **IA e Engenharia** | Spec-Driven Development (SDD), Claude Code, GitHub Copilot, Codex, RAG, MCP (Model Context Protocol) |
+| **Qualidade e Testes** | Pest, PHPUnit, Vitest, TDD, Clean Code, SOLID, SonarQube |
+| **Cloud e DevOps** | Docker, Kubernetes, AWS (Lambda, ECS, SQS, CloudWatch), Azure (Functions, Monitor, IoT), GitHub Actions, GitLab CI |
 | **Frontend** | Vue.js, Angular, React |
 
 ---
 
 ### 💼 Contextos e Projetos em Destaque
 
-- 🏛️ **CAPES (SIPREC & SISCAD):** Coarquitetura na modernização do SIPREC para microsserviços/BFF (2.500 RPS, <300ms, 448+ IES) e liderança técnica na criação do SISCAD do zero (Laravel, Oracle, Redis e RabbitMQ).
-- ⚡ **ONS / Itaipu (Projeto GENIN):** Microsserviços desacoplados na AWS para processamento em tempo real de dados energéticos e meteorológicos com 100% de integridade e zero tolerância a perdas.
-- 🏭 **Energia Pecém (Projeto SIGMA):** Arquitetura orientada a eventos para rastreabilidade de equipamentos operacionais em tempo real e 99,9% de disponibilidade em ambiente Azure.
-- 🧠 **[Universal SDD](https://github.com/ElessandroPrestes/universal-sdd):** Framework universal open-source para aplicar desenvolvimento orientado por especificações integrado com agentes de IA.
+- 🏛️ **CAPES (SIPREC e SISCAD):** Coarquitetura na modernização do SIPREC para microsserviços e BFF (2.500 RPS, latência inferior a 300 ms, 448+ IES) e liderança técnica na construção do SISCAD do zero, utilizando Laravel, Oracle DB, Redis e RabbitMQ.
+- ⚡ **ONS e Itaipu (Projeto GENIN):** Microsserviços desacoplados na AWS voltados ao processamento em tempo real de dados energéticos e meteorológicos com 100% de integridade e zero perda de dados.
+- 🏭 **Energia Pecém (Projeto SIGMA):** Arquitetura orientada a eventos para rastreabilidade de equipamentos operacionais em tempo real e 99,9% de disponibilidade no ecossistema Azure.
+- 🧠 **[Universal SDD](https://github.com/ElessandroPrestes/universal-sdd):** Framework universal para orientar o ciclo de desenvolvimento por especificações rastreáveis, integrando pessoas e agentes de IA de forma previsível e auditável.
 
 ---
 
@@ -56,7 +56,7 @@ Minha paixão está em encarar problemas reais de engenharia: transformar monól
 
 ### 📬 Vamos conversar?
 
-Estou sempre aberto a trocar ideias sobre arquitetura de software, desafios de escala, modernização de legados e o ecossistema de engenharia com IA. Fique à vontade para me chamar:
+Estou sempre à disposição para trocar ideias sobre arquitetura de software, desafios de escalabilidade, modernização de sistemas legados e engenharia assistida por IA. Conecte-se comigo:
 
 - 💼 **LinkedIn:** [/in/elessandroprestes-macedo](https://www.linkedin.com/in/elessandroprestes-macedo/)
 - 🌐 **Portfólio:** [elessandroprestes.github.io/elessandrodev](https://elessandroprestes.github.io/elessandrodev/)
