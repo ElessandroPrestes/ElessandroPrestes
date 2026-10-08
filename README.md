@@ -9,37 +9,39 @@
 
 ---
 
-### 🚀 Resumo Técnico
+### 💡 Sobre mim e como trabalho
 
-Engenheiro de Software com **9+ anos de experiência** construindo e modernizando sistemas críticos e distribuídos que exigem alta tolerância a falhas e zero perda de dados (setores público, energia e indústria).
+Tenho **mais de 9 anos de estrada** projetando, sustentando e modernizando sistemas que simplesmente **não podem parar nem perder dados** — com passagens pelos setores público, energético, industrial e educacional.
 
-- **Escala e Confiabilidade:** Arquiteturas suportando **2.500+ RPS**, picos de **10.000 usuários simultâneos**, latência **<300ms** para 448+ instituições e **99,9% de uptime**.
-- **Modernização de Legados:** Transição incremental via **Strangler Fig Pattern** de monólitos para **Microsserviços, Serverless e BFF** (+56k linhas eliminadas, -40% retrabalho).
-- **IA Aplicada & SDD:** Criador do [Universal SDD](https://github.com/ElessandroPrestes/universal-sdd); aplicação prática de **Spec-Driven Development (SDD)**, **RAG**, **MCP (Model Context Protocol)** e ferramentas como Claude Code, GitHub Copilot e Codex.
-- **Qualidade & Engenharia:** Foco em testes rigorosos (**Pest, PHPUnit** — 2.300+ testes automatizados), **TDD**, **SOLID**, **Clean Architecture** e pipelines de **CI/CD**.
+Minha paixão está em encarar problemas reais de engenharia: transformar monólitos legados em arquiteturas distribuídas e desacopladas, garantir alta disponibilidade sob cargas intensas e usar Inteligência Artificial com método, sem modismo.
+
+- ⚙️ **Escala & Resiliência:** Já desenhei e mantive arquiteturas suportando **2.500+ RPS**, picos de **10 mil usuários simultâneos** e latência **<300ms** para 448+ instituições de ensino (CAPES), sempre mirando **99,9% de uptime**.
+- 🔄 **Modernização sem trauma:** Acredito que legado não se joga fora às cegas. Aplico o **Strangler Fig Pattern** para migrar monólitos para **Microsserviços, Serverless e BFF** de forma contínua e segura — eliminando mais de 56 mil linhas de dívida técnica e reduzindo retrabalho em 40%.
+- 🤖 **Engenharia Assistida por IA com Método:** Criei o **[Universal SDD](https://github.com/ElessandroPrestes/universal-sdd)**, um framework open-source focado em **Spec-Driven Development (SDD)**. Utilizo ferramentas como Claude Code, GitHub Copilot, Codex, RAG e MCP para acelerar o ciclo sem abrir mão de rastreabilidade e decisões humanas na arquitetura.
+- 🧪 **Cultura de Qualidade:** Código bom é código testado e manutenível. Tenho experiência estruturando suites com mais de **2.300 testes automatizados** (**Pest, PHPUnit**), guiados por **TDD**, **SOLID**, **Clean Architecture** e esteiras robustas de **CI/CD**.
 
 ---
 
-### 🛠️ Stack & Competências Técnicas
+### 🛠️ O que uso no dia a dia
 
 | Área | Tecnologias e Práticas |
 |---|---|
 | **Backend & Linguagens** | PHP (Laravel, Symfony), Node.js (Express, NestJS), TypeScript, JavaScript |
-| **Bancos de Dados & Cache** | PostgreSQL, MySQL/MariaDB, Oracle (PL/SQL), Redis, MongoDB, SQL Server |
-| **Arquitetura & Mensageria** | Microsserviços, Event-Driven Architecture, Strangler Fig Pattern, Serverless, BFF, RabbitMQ, Kafka, Amazon MQ |
-| **Engenharia com IA** | Spec-Driven Development (SDD), Claude Code, GitHub Copilot, Codex, RAG, MCP (Model Context Protocol) |
-| **Testes & Qualidade** | Pest, PHPUnit, Vitest, TDD, Clean Code, SOLID, SonarQube |
-| **Cloud & DevOps** | AWS (Lambda, ECS, SQS, CloudWatch), Azure (Monitor, Functions, IoT), Docker, Kubernetes, CI/CD (GitHub Actions, GitLab) |
+| **Bancos & Cache** | PostgreSQL, MySQL/MariaDB, Oracle (PL/SQL), Redis, MongoDB, SQL Server |
+| **Arquitetura & Mensageria** | Microsserviços, Event-Driven Architecture (EDA), Strangler Fig Pattern, Serverless, BFF, RabbitMQ, Kafka |
+| **IA & Engenharia** | Spec-Driven Development (SDD), Claude Code, GitHub Copilot, Codex, RAG, MCP (Model Context Protocol) |
+| **Qualidade & Testes** | Pest, PHPUnit, Vitest, TDD, Clean Code, SOLID, SonarQube |
+| **Cloud & DevOps** | Docker, Kubernetes, AWS (Lambda, ECS, SQS, CloudWatch), Azure (Functions, Monitor, IoT), GitHub Actions, GitLab CI |
 | **Frontend** | Vue.js, Angular, React |
 
 ---
 
-### 💼 Principais Projetos de Impacto
+### 💼 Contextos e Projetos em Destaque
 
-- **CAPES (SIPREC & SISCAD):** Coarquitetura e modernização da plataforma SIPREC para microsserviços e BFF (2.500 RPS, <300ms, 448+ IES). Liderança técnica no desenvolvimento do SISCAD com Laravel, Oracle DB e RabbitMQ.
-- **ONS / Itaipu (Projeto GENIN):** Microsserviços em tempo real na AWS para integração de dados climáticos e energéticos nacionais com 100% de integridade e zero perda de dados.
-- **Energia Pecém (Projeto SIGMA):** Arquitetura orientada a eventos (Event-Driven) para rastreabilidade operacional de equipamentos em tempo real e 99,9% de uptime na Azure.
-- **Universal SDD (Open Source):** Framework agnóstico para desenvolvimento orientado por especificações (Spec-Driven Development) integrado a agentes de IA.
+- 🏛️ **CAPES (SIPREC & SISCAD):** Coarquitetura na modernização do SIPREC para microsserviços/BFF (2.500 RPS, <300ms, 448+ IES) e liderança técnica na criação do SISCAD do zero (Laravel, Oracle, Redis e RabbitMQ).
+- ⚡ **ONS / Itaipu (Projeto GENIN):** Microsserviços desacoplados na AWS para processamento em tempo real de dados energéticos e meteorológicos com 100% de integridade e zero tolerância a perdas.
+- 🏭 **Energia Pecém (Projeto SIGMA):** Arquitetura orientada a eventos para rastreabilidade de equipamentos operacionais em tempo real e 99,9% de disponibilidade em ambiente Azure.
+- 🧠 **[Universal SDD](https://github.com/ElessandroPrestes/universal-sdd):** Framework universal open-source para aplicar desenvolvimento orientado por especificações integrado com agentes de IA.
 
 ---
 
@@ -52,7 +54,9 @@ Engenheiro de Software com **9+ anos de experiência** construindo e modernizand
 
 ---
 
-### 📬 Contato
+### 📬 Vamos conversar?
+
+Estou sempre aberto a trocar ideias sobre arquitetura de software, desafios de escala, modernização de legados e o ecossistema de engenharia com IA. Fique à vontade para me chamar:
 
 - 💼 **LinkedIn:** [/in/elessandroprestes-macedo](https://www.linkedin.com/in/elessandroprestes-macedo/)
 - 🌐 **Portfólio:** [elessandroprestes.github.io/elessandrodev](https://elessandroprestes.github.io/elessandrodev/)
