@@ -15,7 +15,7 @@ Trabalho há **mais de 9 anos** projetando, sustentando e modernizando sistemas 
 
 Gosto de resolver desafios reais de engenharia no dia a dia: transformar monólitos legados em arquiteturas distribuídas e desacopladas, garantir alta disponibilidade sob cargas elevadas e aplicar inteligência artificial com método e critério prático.
 
-- ⚙️ **Escala e Resiliência:** Desenhei e sustentei arquiteturas preparadas para **2.500+ RPS**, picos de **10 mil usuários simultâneos** e latência **abaixo de 300 ms** para mais de 448 instituições de ensino na CAPES, mantendo **99,9% de disponibilidade**.
+- ⚙️ **Escala, Nuvem e Resiliência:** Desenhei e sustentei arquiteturas preparadas para **2.500+ RPS**, picos de **10 mil usuários simultâneos** e latência **abaixo de 300 ms** para mais de 448 instituições de ensino na CAPES. Experiência prática orquestrando contêineres e microsserviços em **Kubernetes (EKS na AWS e AKS na Azure)**, mantendo **99,9% de disponibilidade**.
 - 🔄 **Modernização de Legados:** Em vez de reescrever sistemas do zero sem planejamento, utilizo o **Strangler Fig Pattern** para migrar monólitos para **microsserviços, serverless e BFF** de maneira gradual e segura. Esse processo já viabilizou a eliminação de mais de 56 mil linhas de código legado e reduziu o retrabalho em 40%.
 - 🤖 **Engenharia de Software com IA:** Idealizei e mantenho o **[Universal SDD](https://github.com/ElessandroPrestes/universal-sdd)**, um framework de código aberto voltado para **Spec-Driven Development (SDD)**. Adoto ferramentas como Claude Code, GitHub Copilot, Codex, RAG e MCP para acelerar o ciclo de desenvolvimento, mantendo sempre o rigor técnico, especificações claras e decisões arquiteturais nas mãos da engenharia.
 - 🧪 **Qualidade e Testes:** Defendo código limpo, testável e sustentável. Estruturei suítes com mais de **2.300 testes automatizados** com **Pest e PHPUnit**, combinando **TDD**, **SOLID**, **Clean Architecture** e esteiras automatizadas de **CI/CD**.
@@ -31,7 +31,7 @@ Gosto de resolver desafios reais de engenharia no dia a dia: transformar monóli
 | **Arquitetura e Mensageria** | Microsserviços, Arquitetura Orientada a Eventos (EDA), Strangler Fig Pattern, Serverless, BFF, RabbitMQ, Kafka |
 | **IA e Engenharia** | Spec-Driven Development (SDD), Claude Code, GitHub Copilot, Codex, RAG, MCP (Model Context Protocol) |
 | **Qualidade e Testes** | Pest, PHPUnit, Vitest, TDD, Clean Code, SOLID, SonarQube |
-| **Cloud e DevOps** | Docker, Kubernetes, AWS (Lambda, ECS, SQS, CloudWatch), Azure (Functions, Monitor, IoT), GitHub Actions, GitLab CI |
+| **Cloud, Kubernetes e DevOps** | Kubernetes (EKS na AWS, AKS na Azure), Docker, AWS (EKS, ECS, Lambda, SQS, SNS, CloudWatch), Azure (AKS, Functions, Monitor, IoT), GitHub Actions, GitLab CI |
 | **Frontend** | Vue.js, Angular, React |
 
 ---
