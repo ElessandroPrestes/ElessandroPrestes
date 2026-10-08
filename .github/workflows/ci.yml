@@ -1,0 +1,53 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - main
+      - develop
+  pull_request:
+    branches:
+      - main
+      - develop
+
+jobs:
+  validate:
+    name: Validate Code and Documentation
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Validate server.js syntax
+        run: node --check server.js
+
+      - name: Validate README.md exists and is non-empty
+        run: |
+          test -s README.md || (echo "README.md is empty or missing" && exit 1)
+
+  docker:
+    name: Build and Test Docker Preview
+    runs-on: ubuntu-latest
+    needs: validate
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Validate Docker Compose configuration
+        run: docker compose config
+
+      - name: Build Docker preview image
+        run: docker compose build --no-cache
+
+      - name: Test container startup and healthcheck
+        run: |
+          docker compose up -d
+          sleep 3
+          docker compose ps
+          curl --fail http://localhost:8080/health || (docker compose logs && exit 1)
+          docker compose down
